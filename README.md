@@ -8,6 +8,8 @@ self-hosted web dashboard, and an async Python library.
 The protocol was reverse-engineered from the official ANT BMS Android app;
 see [`PROTOCOL.md`](PROTOCOL.md) for the full derivation.
 
+![Img1](1.png) ![Img2](2.png) ![Img3](3.png)
+
 ## Features
 
 * **Scan** for nearby ANT BMS boards
